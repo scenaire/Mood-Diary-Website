@@ -8,7 +8,6 @@ My Mood Diary is a web-application that developing for Thammasat University Fiel
 ![image](https://www.img.in.th/images/a293bd75fa5daa013d83856701ea88a3.png)
 ![image](https://www.img.in.th/images/ceea4aa9b1122f9f759168cd3546f775.png)
 ![image](https://www.img.in.th/images/929cb30c8ab0acc55168188d818ff8f6.png)
-![image](https://www.img.in.th/images/73d4d202c0e76ba4b08c819acfbe4750.png)
 ![image](https://www.img.in.th/images/6983d9193e09973345ae460b0d47fb48.png)
 ![image](https://www.img.in.th/images/ffeb3cfc491ba9e7470a741b99394a9c.png)
 
