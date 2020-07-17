@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Mitr:400,500&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Sarabun&display=swap');
+
+
+html {
+    position: relative;
+    height: 100%;
+}
+
+body {
+    font-family: 'Mitr', sans-serif;
+    height: 100%;
+}
+
+.buttonWrapper {
+    margin: auto;
+    width: 50%;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #343A40;
+    color: white;
+    text-align: center;
+    padding: 20px 10px;
+}
+
+.dot {
+    width: 20px;
+    height: 20px;
+    margin: auto;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 25px;
+}
+
+.mania {
+    background: #5cb85c;
+}
+
+.happy {
+    background: #a0da73;
+}
+
+.normal {
+    background: #f0ad4e;
+}
+
+.unhappy {
+    background: #7C4296;
+}
+
+.sad {
+    background: #032861;
+}
+
+
+@media screen and (max-width: 401px) {
+    .btn {
+      font-size: 18px;
+    }
+}
+
+@media screen and (min-width: 401px) {
+    .btn {
+      font-size: 18px;
+    }
+}
